@@ -1,6 +1,9 @@
 ## Hi there 👋
-I am current university student starting to learn about Github. 
-Nice to meet you! 😁
+I am currently a university business student starting to learn about Github. 
+
+Nice to meet you! 😁 
+
+Please feel free to reach me. 🤞
 
 <!--
 **Astro110/Astro110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

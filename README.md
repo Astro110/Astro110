@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am currently a university business student from Hong Kong starting to learn about Github. 
+I am currently a university business student from Hong Kong starting to learn about GitHub. 
 
 Nice to meet you! 😁 
 
